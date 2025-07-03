@@ -1,7 +1,7 @@
 # 🧬 drGT
 
 Official implementation of **drGT: Attention-Guided Gene Assessment for Drug Response in Drug-Cell-Gene Heterogeneous Network**
-[![arXiv](https://img.shields.io/badge/arXiv-2405.08979-b31b1b.svg)](https://arxiv.org/abs/2405.08979)
+[![arXiv](https://img.shields.io/badge/arXiv-2405.08979-b31b1b.svg)](https://arxiv.org/abs/2405.08979)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15659967.svg)](https://doi.org/10.5281/zenodo.15659967)
 
 ![](Figs/Fig1.png)
 
